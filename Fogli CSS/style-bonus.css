@@ -1,0 +1,25 @@
+body {
+    background: white;
+    color: white;
+    font-family: sans-serif;
+    font-size: 0.6rem;
+    background-image: url(../IMG/SuperMarioBros.jpg);
+}
+
+.box {
+    padding: 0.8rem;
+    text-align: center;
+    height: 0.2rem;
+    border: solid 1px white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+h1 {
+    color: black;
+    font-size: 5rem;
+    text-align: center;
+}
