@@ -10,7 +10,6 @@ body {
     padding: 0.8rem;
     text-align: center;
     height: 0.2rem;
-    border: solid 1px white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,6 +19,6 @@ body {
 
 h1 {
     color: black;
-    font-size: 4.5rem;
+    font-size: 6.3rem;
     text-align: center;
 }
